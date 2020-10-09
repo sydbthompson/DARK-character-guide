@@ -1,0 +1,114 @@
+.jumbotron1 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-image: url(imgs/DARK-background.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+}
+
+@media (min-width: 768px) {
+  .jumbotron1 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+}
+.jumbotron1 p:last-child {
+  margin-bottom: 0;
+}
+#Tell-Us {
+  text-align: center;
+  color: #dedede
+}
+.form-group{
+  background-color: #676767
+}
+.form-control {
+  background-color: #A9A9A9
+}
+.jumbotron1 h1 {
+  font-weight: 300;
+  color: #A9A9A9
+}
+.card{
+  background-color: #676767
+}
+
+.jumbotron1 .container {
+  max-width: 40rem;
+}
+
+.main {
+ background-image: url("imgs/DARK-background2.jpg");
+}
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+body {
+  background-image: url(imgs/DARK-background2.jpg);
+}
+.jumbotron2 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-image: url(imgs/DARK-background3.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+}
+
+@media (min-width: 768px) {
+  .jumbotron2 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+}
+
+.jumbotron2 p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron2 h1 {
+  font-weight: 300;
+  color: #A9A9A9
+}
+
+.jumbotron2 .container {
+  max-width: 40rem;
+}
+
+.jumbotron3 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-image: url(imgs/DARK-map.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+}
+
+@media (min-width: 768px) {
+  .jumbotron3 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+}
+
+.jumbotron3 p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron3 h1 {
+  font-weight: 300;
+  color: #A9A9A9
+}
+
+.jumbotron3 .container {
+  max-width: 40rem;
+}
